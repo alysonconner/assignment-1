@@ -1,0 +1,46 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color: #2C0F1B;
+	line-height: 1.5rem;
+}
+
+.openquote {
+	float: left;
+	margin: 1.5rem -11%;
+	font-size: 605%;
+	color: #B7305F;
+	font-family:Arial, Helvetica, sans-serif;
+ }
+ 
+blockquote {
+	background-color: #921F53;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	margin: 7rem 24%;
+	padding: 2rem 6%;
+	border-radius: 20px;
+	color:#FFF;
+	font-size: 130%;
+	text-align:left;
+}
+
+.closequote {
+	float: right;
+	margin: 3rem -10%;
+	padding: .5rem 0;
+	font-size: 605%;
+	color: #B7305F;
+	font-family:Arial, Helvetica, sans-serif;
+ }
+
+blockquote cite {
+
+	display: block;
+	margin: 1rem 0;
+	padding: .5rem 0;
+	text-align: right; 
+	font-family:Arial, Helvetica, sans-serif;
+	color:#F9C;
+	font-style:normal;
+}
